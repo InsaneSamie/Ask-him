@@ -1,5 +1,9 @@
 # Ask-him
 
+
+https://github.com/InsaneSamie/Ask-him/assets/101932418/225674b5-f0da-478f-ac89-28e13c4ae3de
+
+
 <h1>Introduction</h1>
 
 This project is a simple web application that asks a person if they love you. It uses <strong> HTML </strong>, <strong> CSS </strong>, and <strong> JavaScript </strong> to create a user-friendly interface and ensures that the person answers "yes" to the question.
