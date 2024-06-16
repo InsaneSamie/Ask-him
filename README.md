@@ -10,7 +10,7 @@ This project is a simple web application that asks a person if they love you. It
 <h1>How to Use</h1>
 
 <strong>Open the Project:</strong> Open the project in a web browser by navigating to the HTML file (index.html).<br>
-<strong>Ask the Question:</strong> The first page is with the question to ask the person if they love you.
+<strong>Ask the Question:</strong> The first page is with the question to ask the person if they love you.<br>
 <strong>Answer the Question:</strong> The person will be prompted to answer "yes" to the question. They will not have the option to say "no".
 
 <h1>Code Explanation</h1>
