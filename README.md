@@ -1,8 +1,7 @@
 # Ask-him
+<h1>Just for fun! Do view the video with audio ❤️🧿✨</h1>
 
-
-https://github.com/InsaneSamie/Ask-him/assets/101932418/225674b5-f0da-478f-ac89-28e13c4ae3de
-
+https://github.com/InsaneSamie/Ask-him/assets/101932418/7d3811fb-dc82-4d58-b94b-2f7a0962d984
 
 <h1>Introduction</h1>
 
